@@ -1,0 +1,232 @@
+# DATASET ARCHITECTURE MAP
+# Root: D:\IIT_PATNA\DATASET\paralinguistic_benchmark_audio_samples\dataset
+
+📁 dataset
+    📁 Bihar
+        📁 AGE_GROUP
+            📁 Adolescent(13-19) (Leaf)
+            📁 Adult(20-50) (Leaf)
+            📁 Child(6-12) (Leaf)
+            📁 Elderly(60+) (Leaf)
+        📁 EMOTION
+            📁 Anger (Leaf)
+            📁 Bored (Leaf)
+            📁 Confused (Leaf)
+            📁 Disgust (Leaf)
+            📁 Embarassed (Leaf)
+            📁 Fear (Leaf)
+            📁 Joy (Leaf)
+            📁 Neutral (Leaf)
+            📁 Sadness (Leaf)
+            📁 Surprised (Leaf)
+            📁 Tired (Leaf)
+        📁 GENDER_AND_VOICE_TYPE
+            📁 Female (Leaf)
+            📁 Male (Leaf)
+            📁 Non_binary (Leaf)
+            📁 Trans (Leaf)
+        📁 POLITENESS
+            📁 apologies_mitigation (Leaf)
+            📁 gratitude_affirmation (Leaf)
+            📁 indirect_requests (Leaf)
+            📁 polite_interruptions (Leaf)
+        📁 POLITENESS_REGISTER
+            📁 High_formality (Leaf)
+            📁 Informal (Leaf)
+            📁 Respectful (Leaf)
+            📁 Rude (Leaf)
+        📁 REGIONAL_ACCENT
+            📁 Diaspora_Variant (Leaf)
+            📁 Rural (Leaf)
+            📁 Tier-2 (Leaf)
+            📁 Urban (Leaf)
+    📁 Delhi
+        📁 AGE_GROUP
+            📁 Adolescent(13-19) (Leaf)
+            📁 Adult(20-50) (Leaf)
+            📁 Child(6-12) (Leaf)
+            📁 Elderly(60+) (Leaf)
+        📁 EMOTION
+            📁 Anger (Leaf)
+            📁 Bored (Leaf)
+            📁 Confused (Leaf)
+            📁 Disgust (Leaf)
+            📁 Embarassed (Leaf)
+            📁 Fear (Leaf)
+            📁 Joy (Leaf)
+            📁 Neutral (Leaf)
+            📁 Sadness (Leaf)
+            📁 Surprised (Leaf)
+            📁 Tired (Leaf)
+        📁 GENDER_AND_VOICE_TYPE
+            📁 Female (Leaf)
+            📁 Male (Leaf)
+            📁 Non_binary (Leaf)
+            📁 Trans (Leaf)
+        📁 POLITENESS
+            📁 apologies_mitigation (Leaf)
+            📁 gratitude_affirmation (Leaf)
+            📁 indirect_requests (Leaf)
+            📁 polite_interruptions (Leaf)
+        📁 POLITENESS_REGISTER
+            📁 High_formality (Leaf)
+            📁 Informal (Leaf)
+            📁 Respectful (Leaf)
+            📁 Rude (Leaf)
+        📁 REGIONAL_ACCENT
+            📁 Diaspora_Variant (Leaf)
+            📁 Rural (Leaf)
+            📁 Tier-2 (Leaf)
+            📁 Urban (Leaf)
+    📁 Haryana
+        📁 AGE_GROUP
+            📁 Adolescent(13-19) (Leaf)
+            📁 Adult(20-50) (Leaf)
+            📁 Child(6-12) (Leaf)
+            📁 Elderly(60+) (Leaf)
+        📁 EMOTION
+            📁 Anger (Leaf)
+            📁 Bored (Leaf)
+            📁 Confused (Leaf)
+            📁 Disgust (Leaf)
+            📁 Embarassed (Leaf)
+            📁 Fear (Leaf)
+            📁 Joy (Leaf)
+            📁 Neutral (Leaf)
+            📁 Sadness (Leaf)
+            📁 Surprised (Leaf)
+            📁 Tired (Leaf)
+        📁 GENDER_AND_VOICE_TYPE
+            📁 Female (Leaf)
+            📁 Male (Leaf)
+            📁 Non_binary (Leaf)
+            📁 Trans (Leaf)
+        📁 POLITENESS
+            📁 apologies_mitigation (Leaf)
+            📁 gratitude_affirmation (Leaf)
+            📁 indirect_requests (Leaf)
+            📁 polite_interruptions (Leaf)
+        📁 POLITENESS_REGISTER
+            📁 High_formality (Leaf)
+            📁 Informal (Leaf)
+            📁 Respectful (Leaf)
+            📁 Rude (Leaf)
+        📁 REGIONAL_ACCENT
+            📁 Diaspora_Variant (Leaf)
+            📁 Rural (Leaf)
+            📁 Tier-2 (Leaf)
+            📁 Urban (Leaf)
+    📁 MadhyaPradesh
+        📁 AGE_GROUP
+            📁 Adolescent(13-19) (Leaf)
+            📁 Adult(20-50) (Leaf)
+            📁 Child(6-12) (Leaf)
+            📁 Elderly(60+) (Leaf)
+        📁 EMOTION
+            📁 Anger (Leaf)
+            📁 Bored (Leaf)
+            📁 Confused (Leaf)
+            📁 Disgust (Leaf)
+            📁 Embarassed (Leaf)
+            📁 Fear (Leaf)
+            📁 Joy (Leaf)
+            📁 Neutral (Leaf)
+            📁 Sadness (Leaf)
+            📁 Surprised (Leaf)
+            📁 Tired (Leaf)
+        📁 GENDER_AND_VOICE_TYPE
+            📁 Female (Leaf)
+            📁 Male (Leaf)
+            📁 Non_binary (Leaf)
+            📁 Trans (Leaf)
+        📁 POLITENESS
+            📁 apologies_mitigation (Leaf)
+            📁 gratitude_affirmation (Leaf)
+            📁 indirect_requests (Leaf)
+            📁 polite_interruptions (Leaf)
+        📁 POLITENESS_REGISTER
+            📁 High_formality (Leaf)
+            📁 Informal (Leaf)
+            📁 Respectful (Leaf)
+            📁 Rude (Leaf)
+        📁 REGIONAL_ACCENT
+            📁 Diaspora_Variant (Leaf)
+            📁 Rural (Leaf)
+            📁 Tier-2 (Leaf)
+            📁 Urban (Leaf)
+    📁 Rajasthan
+        📁 AGE_GROUP
+            📁 Adolescent(13-19) (Leaf)
+            📁 Adult(20-50) (Leaf)
+            📁 Child(6-12) (Leaf)
+            📁 Elderly(60+) (Leaf)
+        📁 EMOTION
+            📁 Anger (Leaf)
+            📁 Bored (Leaf)
+            📁 Confused (Leaf)
+            📁 Disgust (Leaf)
+            📁 Embarassed (Leaf)
+            📁 Fear (Leaf)
+            📁 Joy (Leaf)
+            📁 Neutral (Leaf)
+            📁 Sadness (Leaf)
+            📁 Surprised (Leaf)
+            📁 Tired (Leaf)
+        📁 GENDER_AND_VOICE_TYPE
+            📁 Female (Leaf)
+            📁 Male (Leaf)
+            📁 Non_binary (Leaf)
+            📁 Trans (Leaf)
+        📁 POLITENESS
+            📁 apologies_mitigation (Leaf)
+            📁 gratitude_affirmation (Leaf)
+            📁 indirect_requests (Leaf)
+            📁 polite_interruptions (Leaf)
+        📁 POLITENESS_REGISTER
+            📁 High_formality (Leaf)
+            📁 Informal (Leaf)
+            📁 Respectful (Leaf)
+            📁 Rude (Leaf)
+        📁 REGIONAL_ACCENT
+            📁 Diaspora_Variant (Leaf)
+            📁 Rural (Leaf)
+            📁 Tier-2 (Leaf)
+            📁 Urban (Leaf)
+    📁 UttarPradesh
+        📁 AGE_GROUP
+            📁 Adolescent(13-19) (Leaf)
+            📁 Adult(20-50) (Leaf)
+            📁 Child(6-12) (Leaf)
+            📁 Elderly(60+) (Leaf)
+        📁 EMOTION
+            📁 Anger (Leaf)
+            📁 Bored (Leaf)
+            📁 Confused (Leaf)
+            📁 Disgust (Leaf)
+            📁 Embarassed (Leaf)
+            📁 Fear (Leaf)
+            📁 Joy (Leaf)
+            📁 Neutral (Leaf)
+            📁 Sadness (Leaf)
+            📁 Surprised (Leaf)
+            📁 Tired (Leaf)
+        📁 GENDER_AND_VOICE_TYPE
+            📁 Female (Leaf)
+            📁 Male (Leaf)
+            📁 Non_binary (Leaf)
+            📁 Trans (Leaf)
+        📁 POLITENESS
+            📁 apologies_mitigation (Leaf)
+            📁 gratitude_affirmation (Leaf)
+            📁 indirect_requests (Leaf)
+            📁 polite_interruptions (Leaf)
+        📁 POLITENESS_REGISTER
+            📁 High_formality (Leaf)
+            📁 Informal (Leaf)
+            📁 Respectful (Leaf)
+            📁 Rude (Leaf)
+        📁 REGIONAL_ACCENT
+            📁 Diaspora_Variant (Leaf)
+            📁 Rural (Leaf)
+            📁 Tier-2 (Leaf)
+            📁 Urban (Leaf)
